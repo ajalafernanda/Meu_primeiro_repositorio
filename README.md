@@ -1,9 +1,10 @@
-# Escola Técnica Estadual de Taboão da Serra
 **Unidade 298**
-**Curso:** MTEC em Informática
-**Disciplina:** Projetos em Informática
-**Nome:** Fernanda Ajala Mariani
 
+**Curso:** MTEC em Informática
+
+**Disciplina:** Projetos em Informática
+
+**Nome:** Fernanda Ajala Mariani
 ---
 
 ## 🚀 Em construção: minha trajetória na tecnologia
