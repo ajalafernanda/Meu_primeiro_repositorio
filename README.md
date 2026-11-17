@@ -5,6 +5,7 @@
 **Disciplina:** Projetos em Informática
 
 **Nome:** Fernanda Ajala Mariani
+
 ---
 
 ## 🚀 Em construção: minha trajetória na tecnologia
